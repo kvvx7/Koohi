@@ -21,7 +21,7 @@ let tags = {
   'uploader':'‎‎ رفع الملفات‎',
 }
 const defaultMenu = {
-  before: `السلام عليكم 👋. 
+  before: ` السلام عليكم و رحمة الله و بركاته 👋. 
 
 ┏━━ salam  *%name*
 👥 *Total user:* %totalreg 
@@ -138,7 +138,7 @@ contextInfo: {
 externalAdReply: {
 title: 'KOOHI BOT ♥',
 body: "أفضل بوت واتساب في العالم  🇸🇴",
-thumbnailUrl: 'https://telegra.ph/file/2829c7653514416d207e2.jpg',
+thumbnailUrl: 'https://telegra.ph/file/e6d7c948d1c8d03e20df7.jpg',
 sourceUrl: 'https://instagram.com/noureddine_ouafy',
 mediaType: 1,
 renderLargerThumbnail: true
