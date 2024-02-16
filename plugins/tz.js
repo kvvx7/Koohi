@@ -7,9 +7,9 @@ const handler = async (m, {conn}) => {
 الوقت الحالي في الصومال هو :
 
 
-▢ morocco     : ${tzAF}
+▢ somalia     : ${tzAF}
   ${String.fromCharCode(8206).repeat(850)}
-  ▢ instagram.com/noureddine_ouafy`}, {quoted: m});
+  ▢ instagram.com/kvvx7`}, {quoted: m});
   };
 handler.help = ["tz"]
 handler.tags = ["infobot"]
