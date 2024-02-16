@@ -139,7 +139,7 @@ externalAdReply: {
 title: 'KOOHI BOT ♥',
 body: "أفضل بوت واتساب في العالم  🇸🇴",
 thumbnailUrl: 'https://telegra.ph/file/e6d7c948d1c8d03e20df7.jpg',
-sourceUrl: 'https://instagram.com/noureddine_ouafy',
+sourceUrl: 'https://instagram.com/kvvx7',
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
