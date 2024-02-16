@@ -2,9 +2,9 @@ import moment from 'moment-timezone';
 
 const handler = async (m, {conn}) => {
 
-  const tzAF = moment().tz('Africa/Casablanca').format('DD/MM HH:mm');
+  const tzAF = moment().tz('Africa/Mogadishu').format('DD/MM HH:mm');
   await conn.sendMessage(m.chat, {text: `\`\`\`
-الوقت الحالي في المغرب هو :
+الوقت الحالي في الصومال هو :
 
 
 ▢ morocco     : ${tzAF}
